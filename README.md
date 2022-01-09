@@ -1,6 +1,12 @@
 # crystallib
 
-TODO: Write a description here
+
+<b> Crystalib</b> - Crystal Technical Analysis Library
+<hr/>
+
+
+
+
 
 ## Installation
 
