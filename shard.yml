@@ -1,0 +1,9 @@
+name: crystallib
+version: 0.1.0
+
+authors:
+  - Arsinex Software <samimcanboke@arsinex.com>
+
+crystal: 1.2.2
+
+license: MIT
